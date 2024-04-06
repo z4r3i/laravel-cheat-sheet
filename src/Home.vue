@@ -670,7 +670,6 @@ Request::url()"
   
   </div>
   
-  <Stars />
   
 </template>
 
@@ -685,7 +684,6 @@ export default {
   name: 'Home',
   components: {
     Header,
-    Stars,
     Code,
     Subjects,
     Footer
