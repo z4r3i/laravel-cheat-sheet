@@ -676,7 +676,6 @@ Request::url()"
 
 <script>
 import Header from './components/Header.vue'
-import Stars from './components/Stars.vue'
 import Code from './components/Code.vue'
 import Subjects from './components/Subjects.vue'
 import Footer from './components/Footer.vue'
