@@ -13,7 +13,7 @@
             </div>
             <title></title>
             
-            <div class="header-bar"></div>
+            
             
             <div class="header-object-container"> 
                 <a href="https://laravel.com/docs/9.x/" target="_blank" class="header-object">مستندات</a>
